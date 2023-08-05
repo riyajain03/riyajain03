@@ -13,14 +13,8 @@ I am a dedicated and enthusiastic developer who loves to explore new technologie
 
 ## Skills
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-ffd700?style=for-the-badge&logo=javascript&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge)
-- ![React.js](https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-ffd700?style=for-the-badge&logo=javascript&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge) | ![React.js](https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
+ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 ## Projects
 
@@ -33,9 +27,8 @@ Here are some of the projects I have worked on:
 
 ## Contact
 
-- GitHub: [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/riyajain03)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-jain-33577a242/)
-- Email: jriya1099@example.com
-- Portfolio: [![Portfolio](https://img.shields.io/badge/-riya.dev-black?style=flat)](https://www.riya.dev)
+| GitHub | Linkedin | Email | Portfolio |
+| ------------- | ------------- | ------------- | ------------- |
+| [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/riyajain03) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-jain-33577a242/) | jriya1099@example.com | [![Portfolio](https://img.shields.io/badge/-riya.dev-black?style=flat)](https://www.riya.dev) |
 
 Feel free to explore my repositories and get in touch with me if you have any questions or opportunities for collaboration. Thank you for visiting my profile! 😊
